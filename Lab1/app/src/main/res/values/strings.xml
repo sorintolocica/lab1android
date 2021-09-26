@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="PushNotification">Push notification</string>
+    <string name="GoogleSearch">Google Search</string>
+    <string name="Enter">Enter</string>
+    <string name="BackCamera">Back Camera</string>
+    <string name="FrontCamera">Front Camera</string>
+    <string name="OpenCamera">Open Camera</string>
+    <string name="LastPhoto">Open last photo</string>
+    <string name="lastPhoto">lastPhoto</string>
+</resources>
